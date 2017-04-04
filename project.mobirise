@@ -1,0 +1,162 @@
+{
+  "settings": {
+    "name": "ToS-EULA",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 6,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<a href=\"https://meils.io\">Back To Meils</a>",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Our Terms of Service and EULA",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "EULA",
+          "meta": "Updated April, 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Meils 1.0</i></span></font><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Copyright (c) 2017 Pluto Apps</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>*** END USER LICENSE AGREEMENT ***</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>1. LICENSE</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>By receiving, opening the file package, and/or using Meils 1.0(\"Software\") containing this software, you agree that this End User User License Agreement(EULA) is a legally binding and valid contract and agree to be bound by it. You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Unless you have a different license agreement signed by Pluto Apps your use of Meils 1.0 indicates your acceptance of this license agreement and warranty.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Subject to the terms of this Agreement, Pluto Apps grants to you a limited, non-exclusive, non-transferable license, without right to sub-license, to use Meils 1.0 in accordance with this Agreement and any other written agreement with Pluto Apps. Pluto Apps does not transfer the title of Meils 1.0 to you; the license granted to you is not a sale. This agreement is a binding legal agreement between Pluto Apps and the purchasers or users of Meils 1.0.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>If you do not agree to be bound by this agreement, remove Meils 1.0 from your computer now and, if applicable, promptly return to Pluto Apps by mail any copies of Meils 1.0 and related documentation and packaging in your possession.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>2. DISTRIBUTION</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Meils 1.0 and the license herein granted shall not be copied, shared, distributed, re-sold, offered for re-sale, transferred or sub-licensed in whole or in part except that you may make one copy for archive purposes only. For information about redistribution of Meils 1.0 contact Pluto Apps.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>3. USER AGREEMENT</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>3.1 Use</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Your license to use Meils 1.0 is limited to the number of licenses purchased by you. You shall not allow others to use, copy or evaluate copies of Meils 1.0.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>3.2 Use Restrictions</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>You shall use Meils 1.0 in compliance with all applicable laws and not for any unlawful purpose. Without limiting the foregoing, use, display or distribution of Meils 1.0 together with material that is pornographic, racist, vulgar, obscene, defamatory, libelous, abusive, promoting hatred, discriminating or displaying prejudice based on religion, ethnic heritage, race, sexual orientation or age is strictly prohibited.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Each licensed copy of Meils 1.0 may be used on one single computer location by one user. Use of Meils 1.0 means that you have loaded, installed, or run Meils 1.0 on a computer or similar device. If you install Meils 1.0 onto a multi-user platform, server or network, each and every individual user of Meils 1.0 must be licensed separately.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>You may make one copy of Meils 1.0 for backup purposes, providing you only have one copy installed on one computer being used by one person. Other users may not use your copy of Meils 1.0 . The assignment, sublicense, networking, sale, or distribution of copies of Meils 1.0 are strictly forbidden without the prior written consent of Pluto Apps. It is a violation of this agreement to assign, sell, share, loan, rent, lease, borrow, network or transfer the use of Meils 1.0. If any person other than yourself uses Meils 1.0 registered in your name, regardless of whether it is at the same time or different times, then this agreement is being violated and you are responsible for that violation!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>3.3 Copyright Restriction</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>This Software contains copyrighted material, trade secrets and other proprietary material. You shall not, and shall not attempt to, modify, reverse engineer, disassemble or decompile Meils 1.0. Nor can you create any derivative works or other works that are based upon or derived from Meils 1.0 in whole or in part.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Pluto Apps's name, logo and graphics file that represents Meils 1.0 shall not be used in any way to promote products developed with Meils 1.0 . Pluto Apps retains sole and exclusive ownership of all right, title and interest in and to Meils 1.0 and all Intellectual Property rights relating thereto.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Copyright law and international copyright treaty provisions protect all parts of Meils 1.0, products and services. No program, code, part, image, audio sample, or text may be copied or used in any way by the user except as intended within the bounds of the single user program. All rights not expressly granted hereunder are reserved for Pluto Apps.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>3.4 Limitation of Responsibility</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>You will indemnify, hold harmless, and defend Pluto Apps , its employees, agents and distributors against any and all claims, proceedings, demand and costs resulting from or in any way connected with your use of Pluto Apps's Software.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>In no event (including, without limitation, in the event of negligence) will Pluto Apps , its employees, agents or distributors be liable for any consequential, incidental, indirect, special or punitive damages whatsoever (including, without limitation, damages for loss of profits, loss of use, business interruption, loss of information or data, or pecuniary loss), in connection with or arising out of or related to this Agreement, Meils 1.0 or the use or inability to use Meils 1.0 or the furnishing, performance or use of any other matters hereunder whether based upon contract, tort or any other theory including negligence.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Pluto Apps's entire liability, without exception, is limited to the customers' reimbursement of the purchase price of the Software (maximum being the lesser of the amount paid by you and the suggested retail price as listed by Pluto Apps ) in exchange for the return of the product, all copies, registration papers and manuals, and all materials that constitute a transfer of license from the customer back to Pluto Apps.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>3.5 Warranties</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Except as expressly stated in writing, Pluto Apps makes no representation or warranties in respect of this Software and expressly excludes all other warranties, expressed or implied, oral or written, including, without limitation, any implied warranties of merchantable quality or fitness for a particular purpose.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>3.6 Governing Law</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>This Agreement shall be governed by the law of the United States applicable therein. You hereby irrevocably attorn and submit to the non-exclusive jurisdiction of the courts of United States therefrom. If any provision shall be considered unlawful, void or otherwise unenforceable, then that provision shall be deemed severable from this License and not affect the validity and enforceability of any other provisions.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>3.7 Termination</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Any failure to comply with the terms and conditions of this Agreement will result in automatic and immediate termination of this license. Upon termination of this license granted herein for any reason, you agree to immediately cease use of Meils 1.0 and destroy all copies of Meils 1.0 supplied under this Agreement. The financial obligations incurred by you shall survive the expiration or termination of this license.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>4. DISCLAIMER OF WARRANTY</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD \"AS IS\" AND WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. THIS DISCLAIMER CONCERNS ALL FILES GENERATED AND EDITED BY Meils 1.0 AS WELL.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>5. CONSENT OF USE OF DATA</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>You agree that Pluto Apps may collect and use information gathered in any manner as part of the product support services provided to you, if any, related to Meils 1.0.Pluto Apps may also use this information to provide notices to you which may be of use or interest to you.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;&nbsp;</i></span></font></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Terms of Service",
+          "meta": "Updated April, 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-5",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;1. Terms</i></span></font><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>2. Use License</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; Permission is granted to temporarily download one copy of the materials (information or software) on Meils's web site for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; modify or copy the materials;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; use the materials for any commercial purpose, or for any public display (commercial or non-commercial);</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; attempt to decompile or reverse engineer any software contained on Meils's web site;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; remove any copyright or other proprietary notations from the materials; or</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; transfer the materials to another person or \"mirror\" the materials on any other server.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; This license shall automatically terminate if you violate any of these restrictions and may be terminated by Meils at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>3. Disclaimer</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; The materials on Meils's web site are provided \"as is\". Meils makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Meils does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>4. Limitations</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>In no event shall Meils or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Meils's Internet site, even if Meils or a Meils authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>5. Revisions and Errata</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>The materials appearing on Meils's web site could include technical, typographical, or photographic errors. Meils does not warrant that any of the materials on its web site are accurate, complete, or current. Meils may make changes to the materials contained on its web site at any time without notice. Meils does not, however, make any commitment to update the materials.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>6. Links</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Meils has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Meils of the site. Use of any such linked web site is at the user's own risk.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>7. Site Terms of Use Modifications</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Meils may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>8. Governing Law</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Any claim relating to Meils's web site shall be governed by the laws of the State of Pennsylvania without regard to its conflict of law provisions.</i></span></font></div>"
+        }
+      ]
+    }
+  }
+}
